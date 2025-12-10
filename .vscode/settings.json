@@ -1,0 +1,11 @@
+{
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.buildBeforeRun": true,
+    "cmake.configureOnOpen": false,
+    "cmake.useCMakePresets": "always",
+    "files.associations": {
+        "gcov_test.h": "c",
+        "mcucoverage.h": "c",
+        "mcurtos.h": "c"
+    }
+}
